@@ -2,6 +2,7 @@
 // Comentario añadido de prueba añadido
 // IES JUAN DE LA CIERVA DAM1D PATRICIA E ISABEL
 
+//Este es otro comentario de prueba
 package pruebapersona;
 
 public class Persona {
